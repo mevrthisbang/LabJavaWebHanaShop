@@ -7,4 +7,4 @@
    
    *Pattern: MVC model
    
-   *DatabaseL Microsoft SQL Server
+   *Database: Microsoft SQL Server
